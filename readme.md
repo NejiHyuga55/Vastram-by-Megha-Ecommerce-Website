@@ -1,44 +1,11 @@
-# Anon - An eCommerce Website
+Vastram by Megha is a modern boutique and fashion showcase website developed to establish a strong digital presence for the brand while providing customers with an elegant and visually appealing browsing experience.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/anon-ecommerce-website)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/anon-ecommerce-website?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/anon-ecommerce-website?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/3l8Lob4ysI0?style=social)](https://youtu.be/3l8Lob4ysI0)
+All product photographs featured on the website were captured and curated by Hriday Thakur.
 
-Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
+The platform showcases curated ethnic wear collections through carefully designed layouts, intuitive navigation, and responsive interfaces that ensure accessibility across multiple devices. The website was created with a strong emphasis on aesthetics, brand identity, and user experience to effectively represent the boutique's craftsmanship and style.
 
-## Demo
+One of the most distinctive aspects of this project is that all product photographs featured on the website were personally captured, curated, and edited by the developer. This involved planning product shoots, managing visual composition, and creating high-quality imagery that accurately represents the products while maintaining a consistent visual identity across the platform.
 
-![Anon Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![Anon Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+The project highlights the integration of technical web development skills with creative disciplines such as photography, visual storytelling, branding, and digital content creation. It demonstrates the ability to build complete digital experiences that combine design, technology, and marketing to support small businesses and entrepreneurs.
 
-## Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-## Installing Anon
-
-To install **Anon**, follow these steps:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/anon-ecommerce-website.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/anon-ecommerce-website.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-## License
-
-This project is **free to use** and does not contains any license.
+🌐 Live Website: https://vastrambymegha.netlify.app
